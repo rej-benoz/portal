@@ -6,15 +6,15 @@ You may use AI tools. Along with your code, include a short section titled **"Wh
 
 ## Getting started
 
-1. **Fork this repository** to your own GitHub account. Keep the fork private.
-2. Clone your fork and follow [Run it locally](README.md#run-it-locally) in the README.
+1. **Clone this repository** and push it to your own GitHub account. Keep the repository private.
+2. Clone your now repository and follow [Run it locally](README.md#run-it-locally) in the README.
 3. Work through the **To do** sections below, committing to your fork as you go.
 
 ## Submitting
 
 When you're done, send us:
 
-- the URL of your fork, with the reviewers we named added as collaborators
+- the URL of your repository, with the reviewers we named added as collaborators
 - the live portal and API URLs from the hosting task
 - your **"Where I disagreed with the repo or my AI"** notes, either in a Markdown file in your fork or in your submission message
 
